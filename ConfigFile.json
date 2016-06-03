@@ -1,0 +1,207 @@
+﻿{
+	"Rooms":[
+	{
+		"RoomName": "Room 1",
+		"ControlID": 1,
+		"Audio": {
+			"isUsing": 1,
+			"AudioEquipID": 5001
+		},
+		"Video": {
+			"isUsing": 0,
+			"VideoEquipID": 6001
+		},
+		"Lights": {
+			"isUsing": 1,
+			"LightEquipmentID": 7001
+		},
+		"Shades": {
+			"isUsing": 1,
+			"ShadeEquipmentID": 8001
+		},
+		"HVAC": {
+			"isUsing": 1,
+			"HVACEquipmentID": 9001
+		},
+		"Sources": [
+		{
+			"Name": "Cable 1",
+			"isUsing": 1	
+		},{
+			"Name": "Cable 2",
+			"isUsing": 1
+		},{
+			"Name": "Cable 3",
+			"isUsing": 0
+		},{
+			"Name": "Cable 4",
+			"isUsing": 0
+		},{
+			"Name": "Apple TV 1",
+			"isUsing": 0
+		},{
+			"Name": "Apple TV 2",
+			"isUsing": 0
+		},{
+			"Name": "Prima",
+			"isUsing": 1
+		},{
+			"Name": "Bluray 1",
+			"isUsing": 1
+		},{
+			"Name": "Bluray 2",
+			"isUsing": 1
+		},{
+			"Name": "Roku",
+			"isUsing": 0
+		},{
+			"Name": "Fire Stick",
+			"isUsing": 1	
+		},{
+			"Name": "XM",
+			"isUsing": 1
+		},{
+			"Name": "FM",
+			"isUsing": 0
+		},{
+			"Name": "Stream 1",
+			"isUsing": 1
+		},{
+			"Name": "Stream 2",
+			"isUsing": 0
+		},{
+			"Name": "Stream 3",
+			"isUsing": 0
+		},{
+			"Name": "Stream 4",
+			"isUsing": 1
+		},{
+			"Name": "Stream 5",
+			"isUsing": 1
+		},{
+			"Name": "CCTV",
+			"isUsing": 1
+		},{
+			"Name": "Computer",
+			"isUsing": 0
+		},{
+			"Name": "XBOX",
+			"isUsing": 0
+		},{
+			"Name": "21",
+			"isUsing": 0
+		},{
+			"Name": "22",
+			"isUsing": 0
+		},{
+			"Name": "23",
+			"isUsing": 0	
+		},{
+			"Name": "24",
+			"isUsing": 0
+		}
+		]
+	},{
+		"RoomName": "Room 2",
+		"ControlID": 2,
+		"Audio": {
+			"isUsing": 0,
+			"AudioEquipID": 0
+		},
+		"Video": {
+			"isUsing": 1,
+			"VideoEquipID": 6002
+		},
+		"Lights": {
+			"isUsing": 1,
+			"LightEquipmentID": 7002
+		},
+		"Shades": {
+			"isUsing": 0,
+			"ShadeEquipmentID": 8002
+		},
+		"HVAC": {
+			"isUsing": 1,
+			"HVACEquipmentID": 9002
+		},
+		"Sources": [
+		{
+			"Name": "Cable 1",
+			"isUsing": 1	
+		},{
+			"Name": "Cable 2",
+			"isUsing": 1
+		},{
+			"Name": "Cable 3",
+			"isUsing": 0
+		},{
+			"Name": "Cable 4",
+			"isUsing": 0
+		},{
+			"Name": "Apple TV 1",
+			"isUsing": 0
+		},{
+			"Name": "Apple TV 2",
+			"isUsing": 0
+		},{
+			"Name": "Prima",
+			"isUsing": 1
+		},{
+			"Name": "Bluray 1",
+			"isUsing": 1
+		},{
+			"Name": "Bluray 2",
+			"isUsing": 1
+		},{
+			"Name": "Roku",
+			"isUsing": 0
+		},{
+			"Name": "Fire Stick",
+			"isUsing": 1	
+		},{
+			"Name": "XM",
+			"isUsing": 1
+		},{
+			"Name": "FM",
+			"isUsing": 0
+		},{
+			"Name": "Stream 1",
+			"isUsing": 1
+		},{
+			"Name": "Stream 2",
+			"isUsing": 0
+		},{
+			"Name": "Stream 3",
+			"isUsing": 0
+		},{
+			"Name": "Stream 4",
+			"isUsing": 1
+		},{
+			"Name": "Stream 5",
+			"isUsing": 1
+		},{
+			"Name": "CCTV",
+			"isUsing": 1
+		},{
+			"Name": "Computer",
+			"isUsing": 0
+		},{
+			"Name": "XBOX",
+			"isUsing": 0
+		},{
+			"Name": "21",
+			"isUsing": 0
+		},{
+			"Name": "22",
+			"isUsing": 0
+		},{
+			"Name": "23",
+			"isUsing": 0	
+		},{
+			"Name": "24",
+			"isUsing": 0
+		}
+		]
+	}	
+	]
+}

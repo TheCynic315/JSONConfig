@@ -1,0 +1,155 @@
+﻿{
+	"ListOfSources": [
+	{
+		"Name": "Cable 1",
+		"Type": 1,
+		"EquipID" : 2001,
+		"Ainput" : 1,
+		"Vinput" : 1
+	},{
+		"Name": "Cable 2",
+		"Type": 1,
+		"EquipID" : 2002,
+		"Ainput" : 2,
+		"Vinput" : 2
+	},{
+		"Name": "Cable 3",
+		"Type": 1,
+		"EquipID" : 2003,
+		"Ainput" : 3,
+		"Vinput" : 3
+	},{
+		"Name": "Cable 4",
+		"Type": 1,
+		"EquipID" : 2004,
+		"Ainput" : 4,
+		"Vinput" : 4
+	},{
+		"Name": "Apple TV 1",
+		"Type": 3,
+		"EquipID" : 2005,
+		"Ainput" : 5,
+		"Vinput" : 5
+	},{
+		"Name": "Apple TV 2",
+		"Type": 4,
+		"EquipID" : 2006,
+		"Ainput" : 6,
+		"Vinput" : 6
+	},{
+		"Name": "Prima",
+		"Type": 5,
+		"EquipID" : 2007,
+		"Ainput" : 7,
+		"Vinput" : 7
+	},{
+		"Name": "Bluray 1",
+		"Type": 2,
+		"EquipID" : 2008,
+		"Ainput" : 8,
+		"Vinput" : 8
+	},{
+		"Name": "Bluray 2",
+		"Type": 2,
+		"EquipID" : 2009,
+		"Ainput" : 9,
+		"Vinput" : 9
+	},{
+		"Name": "Roku",
+		"Type": 6,
+		"EquipID" : 2010,
+		"Ainput" : 10,
+		"Vinput" : 10
+	},{
+		"Name": "Fire Stick",
+		"Type": 6,
+		"EquipID" : 2011,
+		"Ainput" : 11,
+		"Vinput" : 11
+	},{
+		"Name": "XM",
+		"Type": 7,
+		"EquipID" : 0,
+		"Ainput" : 12,
+		"Vinput" : 0
+	},{
+		"Name": "FM",
+		"Type": 7,
+		"EquipID" : 0,
+		"Ainput" : 13,
+		"Vinput" : 0
+	},{
+		"Name": "Stream 1",
+		"Type": 7,
+		"EquipID" : 0,
+		"Ainput" : 17,
+		"Vinput" : 0
+	},{
+		"Name": "Stream 2",
+		"Type": 7,
+		"EquipID" : 0,
+		"Ainput" : 18,
+		"Vinput" : 0
+	},{
+		"Name": "Stream 3",
+		"Type": 7,
+		"EquipID" : 2001,
+		"Ainput" : 19,
+		"Vinput" : 0
+	},{
+		"Name": "Stream 4",
+		"Type": 7,
+		"EquipID" : 2001,
+		"Ainput" : 20,
+		"Vinput" : 0
+	},{
+		"Name": "Stream 5",
+		"Type": 7,
+		"EquipID" : 0,
+		"Ainput" : 21,
+		"Vinput" : 0
+	},{
+		"Name": "CCTV",
+		"Type": 8,
+		"EquipID" : 2012,
+		"Ainput" : 0,
+		"Vinput" : 12
+	},{
+		"Name": "Computer",
+		"Type": 9,
+		"EquipID" : 2013,
+		"Ainput" : 12,
+		"Vinput" : 13
+	},{
+		"Name": "XBOX",
+		"Type": 10,
+		"EquipID" : 2014,
+		"Ainput" : 13,
+		"Vinput" : 14
+	},{
+		"Name": "21",
+		"Type": 0,
+		"EquipID" : 0,
+		"Ainput" : 0,
+		"Vinput" : 0
+	},{
+		"Name": "22",
+		"Type": 0,
+		"EquipID" : 0,
+		"Ainput" : 0,
+		"Vinput" : 0
+	},{
+		"Name": "23",
+		"Type": 0,
+		"EquipID" : 0,
+		"Ainput" : 0,
+		"Vinput" : 0	
+	},{
+		"Name": "24",
+		"Type": 0,
+		"EquipID" : 0,
+		"Ainput" : 0,
+		"Vinput" : 0
+	}
+  ]
+}

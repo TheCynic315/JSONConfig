@@ -1,0 +1,12 @@
+﻿{
+	
+	"HVAC": [
+	{
+		"Name": "Living Room",
+		"EquipID": 5001
+		},{
+		"Name": "Dining Room",
+		"EquipID": 5002
+		}
+	]
+}

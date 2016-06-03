@@ -1,0 +1,8 @@
+E:\Crestron\SIMPL#\JSON\JSONConfig\JSONConfig\bin\JSONConfig.dll
+E:\Crestron\SIMPL#\JSON\JSONConfig\JSONConfig\bin\JSONConfig.pdb
+E:\Crestron\SIMPL#\JSON\JSONConfig\JSONConfig\bin\Newtonsoft.Json.Compact.dll
+E:\Crestron\SIMPL#\JSON\JSONConfig\JSONConfig\bin\SimplSharpCustomAttributesInterface.dll
+E:\Crestron\SIMPL#\JSON\JSONConfig\JSONConfig\bin\SimplSharpHelperInterface.dll
+E:\Crestron\SIMPL#\JSON\JSONConfig\JSONConfig\obj\Debug\ResolveAssemblyReference.cache
+E:\Crestron\SIMPL#\JSON\JSONConfig\JSONConfig\obj\Debug\JSONConfig.dll
+E:\Crestron\SIMPL#\JSON\JSONConfig\JSONConfig\obj\Debug\JSONConfig.pdb
